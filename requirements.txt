@@ -2,3 +2,4 @@ streamlit
 PyPDF2
 openai
 chromadb
+pysqlite3-binary
