@@ -2,4 +2,4 @@ streamlit
 PyPDF2
 openai
 chromadb
-pysqlite3-binary
+pysqlite3-binary>=0.5.0
