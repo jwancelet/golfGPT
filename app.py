@@ -6,6 +6,9 @@ import openai
 from openai import OpenAI # Explicit import for clarity
 import chromadb
 # from chromadb.config import Settings # Settings might be less needed with PersistentClient
+import pysqlite3
+import sys
+sys.modules['sqlite3'] = pysqlite3
 import traceback # For detailed error logging
 # Import ChromaDB specific exceptions if available and needed (check your Chroma version)
 # from chromadb.errors import CollectionNotFoundError # Example, adjust based on actual library
