@@ -81,9 +81,7 @@ Interactive Corporate Training & Learning: Supplement training materials with a 
 <br>
 <br>
 <h1>UI Screenshots</h1>
-
-
-
+![UI Screenshot](UI_Screenshot_1.PNG)
 
 <br>
 <br>
