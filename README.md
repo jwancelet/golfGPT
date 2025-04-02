@@ -77,6 +77,14 @@ Compliance Monitoring & Audit Support: Help compliance officers and auditors eff
 V. Training & Development:
 
 Interactive Corporate Training & Learning: Supplement training materials with a chatbot that can answer trainee questions based only on the specific course content, providing instant clarification and reinforcing learning.
+
+<br>
+<br>
+<h1>UI Screenshots</h1>
+
+
+
+
 <br>
 <br>
 <h1>Getting Started</h1>
