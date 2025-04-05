@@ -1,6 +1,7 @@
 
 
-# 🏌️‍♂️ GolfGPT: a Q&A Chatbot ⛳
+# 🏌️‍♂️ GolfGPT: Your AI Companion for Mastering Golf - a Q&A Chatbot ⛳
+
 
 GolfGPT: An AI-powered chatbot designed to help users learn golf. This application leverages OpenAI's language model and embeddings within a Retrieval-Augmented Generation (RAG) framework orchestrated by LangChain. It retrieves contextually relevant information from a Chroma vector database, interacts with users via a Streamlit interface, and is hosted on AWS EC2.
 
